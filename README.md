@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nada!
 
-<!--
-**Nada-Khaled21/Nada-Khaled21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Learning Backend & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Frontend Development: Specialized in building responsive UIs using React, Tailwind CSS, and Bootstrap.
+- - Learning Journey: Currently expanding my skills in Node.js, Express, and MongoDB.
+  - - Interests: Passionate about AI and exploring its integration into modern web applications.
+    - - Background: Solid foundation in HTML/CSS, JavaScript, OOP, C++, and Java.
+     
+      - ### Tech Stack
+      - - React
+        - - Tailwind CSS
+          - - JavaScript
+            - - Node.js
+              - - MongoDB
+                - - C++
+                  - - Java
+                    - 
